@@ -1,0 +1,8 @@
+.textarea-wrapper {
+    display: flex;
+    padding-top: 20px;
+    gap: 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  
